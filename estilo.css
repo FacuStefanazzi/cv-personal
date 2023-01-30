@@ -1,7 +1,9 @@
 body {
     font-family: 'Roboto', sans-serif;
     background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(11,9,121,1) 35%, rgba(42,0,255,1) 100%);
+/*background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(11,9,121,1) 35%, rgba(42,0,255,1) 100%);*/
+background: rgb(121,118,118);
+background: linear-gradient(90deg, rgba(121,118,118,1) 0%, rgba(163,163,163,1) 35%, rgba(205,205,205,1) 100%);
 }
 .menubar{
     background: #4acaa8;
@@ -20,7 +22,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(11,9,121,1) 35%, rgba
 section{
     padding: 0 10%;
     padding-top: 10%;
-    color: white;
+    color: black;
     height: 98vh;
 }
 .menubar li  a{
